@@ -1,1 +1,1 @@
-Hello there! This is my first website.
+Hello there! This is attemp towards web development.
